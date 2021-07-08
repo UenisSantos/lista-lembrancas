@@ -1,0 +1,16 @@
+F:\.Net\Notas.viagens\obj\Debug\net5.0\Notas.viagens.csproj.AssemblyReference.cache
+F:\.Net\Notas.viagens\obj\Debug\net5.0\Notas.viagens.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\Notas.viagens\obj\Debug\net5.0\Notas.viagens.AssemblyInfoInputs.cache
+F:\.Net\Notas.viagens\obj\Debug\net5.0\Notas.viagens.AssemblyInfo.cs
+F:\.Net\Notas.viagens\obj\Debug\net5.0\Notas.viagens.csproj.CoreCompileInputs.cache
+F:\.Net\Notas.viagens\bin\Debug\net5.0\Notas.viagens.exe
+F:\.Net\Notas.viagens\bin\Debug\net5.0\Notas.viagens.deps.json
+F:\.Net\Notas.viagens\bin\Debug\net5.0\Notas.viagens.runtimeconfig.json
+F:\.Net\Notas.viagens\bin\Debug\net5.0\Notas.viagens.runtimeconfig.dev.json
+F:\.Net\Notas.viagens\bin\Debug\net5.0\Notas.viagens.dll
+F:\.Net\Notas.viagens\bin\Debug\net5.0\ref\Notas.viagens.dll
+F:\.Net\Notas.viagens\bin\Debug\net5.0\Notas.viagens.pdb
+F:\.Net\Notas.viagens\obj\Debug\net5.0\Notas.viagens.dll
+F:\.Net\Notas.viagens\obj\Debug\net5.0\ref\Notas.viagens.dll
+F:\.Net\Notas.viagens\obj\Debug\net5.0\Notas.viagens.pdb
+F:\.Net\Notas.viagens\obj\Debug\net5.0\Notas.viagens.genruntimeconfig.cache
