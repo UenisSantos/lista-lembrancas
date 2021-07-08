@@ -1,2 +1,2 @@
 # lista-lembrancas
-projeto em .net criado com a Digital Inovation One
+###ProJeto criado em .Net com o intuido de servir como atividade extra complementar na Digital Inovation One
